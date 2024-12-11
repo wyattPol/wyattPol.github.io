@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Automatic Control & Robotics Bsc @ Poznan University of Technology
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final-year undergraduate student in Automatic Control and Robotics at Poznan University of Technology, Poland. My research interests focus on robotics, optimal control, and reinforcement learning, with an emphasis on robotic manipulation and planning for complex, dynamic tasks. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At my home university, I have worked on projects involving legged robots under the supervision of [Prof. Krzysztof Walas](https://scholar.google.com/citations?user=0FZ0cZQAAAAJ&hl=pl)and robotic air hockey planning and diploma thesis under the supervision of [Dr. Piotr Kicki](https://scholar.google.pl/citations?user=tilnVjMAAAAJ&hl=pl). These experiences have strengthened my expertise in robotic systems and intelligent planning algorithms.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I am a research intern at the [IRIS Lab](https://irislab.tech/), Arizona State University, under the supervision of [Prof. Wanxin Jin](https://wanxinjin.github.io/). My research, which began in the summer of 2024, focuses on optimal control and robotic manipulation, contributing to advanced methodologies for precision and efficiency in robotic systems.
+
+Previously, I worked as a research assistant in the [KIMED OEKOSYSTEM](https://www.zkil.uni-luebeck.de/zkil/ki-med-oekosystem) project at the University of Lübeck and the University Hospital Schleswig-Holstein in Germany, supervised by [Prof. Floris Ernst](https://scholar.google.com/citations?user=-ns9KHIAAAAJ&hl=de) and [Daniel Wulff](https://www.rob.uni-luebeck.de/en/translate-to-english-institut/translate-to-english-mitarbeiter/translate-to-english-wulff-daniel). My work involved developing deep learning solutions for needle detection and segmentation in 3D ultrasound images, specifically for kidney interventions. I implemented models, conducted experiments, and fine-tuned solutions to enhance accuracy and reliability in medical imaging workflows.
