@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
 subtitle: Automatic Control & Robotics Bsc @ Poznan University of Technology
 
