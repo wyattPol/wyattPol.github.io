@@ -6,7 +6,7 @@ subtitle: Automatic Control & Robotics Bsc @ Poznan University of Technology
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
