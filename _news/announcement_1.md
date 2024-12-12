@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Yiting's portfolio page is created!
+Yiting's profile page is created!
