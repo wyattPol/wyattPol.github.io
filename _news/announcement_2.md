@@ -7,7 +7,7 @@ related_posts: false
 
 Yiting's portfolio page is created!
 
-![Portfolio Cover](prof_pic.jpeg)
+![Portfolio Cover](prof_pic.jpg)
 
 Here’s an introductory video:
 
