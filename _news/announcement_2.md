@@ -5,13 +5,10 @@ inline: true
 related_posts: false
 ---
 
-Yiting's portfolio page is created!
-
-![Portfolio Cover](prof_pic.jpg)
-
-Here’s an introductory video:
-
+**[Research] Adaptive Neural Gradient Fields for Robot Planning and Control with Hardware in the Loop**
+ A novel approach designed to make optimization-based planning and control far more effective. By leveraging neural networks to model gradients, this method offers a smarter, more adaptive way to handle the complexities of hardware differentiation.
+Video cut:
 <video width="500" controls>
-  <source src="videos/portfolio-intro.mp4" type="video/mp4">
+  <source src="videos/100itr.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
