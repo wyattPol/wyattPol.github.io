@@ -11,4 +11,4 @@ A novel approach designed to make optimization-based planning and control far mo
 By leveraging neural networks to model gradients, this method offers a smarter, more adaptive way to handle the complexities of hardware differentiation.  
 
 Video cut:  
-{% include video.liquid path="assets/video/100itr.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+{% include video.liquid path="assets/video/100itr.mp4" style="width:750px; height:auto;" %}}
