@@ -12,6 +12,6 @@ By leveraging neural networks to model gradients, this method offers a smarter, 
 
 Video cut:  
 <video width="750" controls>
-  <source src="100itr.mp4" type="video/mp4">
+  <source src="_news/100itr.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
