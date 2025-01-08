@@ -10,5 +10,5 @@ related_posts: false
 This project builds on Rapid Motor Adaptation (RMA), leveraging reinforcement learning to improve legged robot locomotion on diverse terrains. 
 
 Video cut:  
-{% include video.liquid path="https://youtu.be/mEH4QhMPuuM?si=pBnlsozmE7fjb8vA" class="img-fluid rounded z-depth-1" %}
+{% include youtube.html id="mEH4QhMPuuM" %}
 
