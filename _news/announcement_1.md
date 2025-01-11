@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Yiting's profile page is created!
+Yiting's website is created!
